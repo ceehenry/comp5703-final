@@ -1,0 +1,9 @@
+001_Boots 12832
+002_Clogs and Mules 1427
+003_Flats 3994
+004_Heels 12856
+005_Loafers 2875
+006_Oxfords 2044
+007_Sandals 5741
+008_Slippers 1283
+009_Sneakers 12856
