@@ -30,7 +30,7 @@ for r, d, fi in os.walk(databaseClass):
         path = '/'.join([r, each_folder])
         file_num = len((os.listdir(path))) # number of subfiles
 
-        # create the query images
+        #  create the query images
         index = random.sample(range(0,file_num), int(math.floor(query_percentage*file_num)))
         # list all the files using directory path
         for ind, str_each_file in enumerate(os.listdir(path)):
